@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6919c7605108e2defd7b60c3"
+  },
+  "server": "EU-West",
+  "location": "Netherlands",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919c7605108e2defd7b60c4"
+  },
+  "server": "EU-North",
+  "location": "Sweden",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919c7605108e2defd7b60c5"
+  },
+  "server": "EU-East",
+  "location": "Poland",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919c7605108e2defd7b60c6"
+  },
+  "server": "EU-Central",
+  "location": "Germany",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919c7605108e2defd7b60c7"
+  },
+  "server": "EU-South",
+  "location": "Italy",
+  "online": false
+},
+{
+  "_id": {
+    "$oid": "6919c7605108e2defd7b60c8"
+  },
+  "server": "EU-UK",
+  "location": "UK",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919c7605108e2defd7b60c9"
+  },
+  "server": "EU-France",
+  "location": "France",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919c7605108e2defd7b60ca"
+  },
+  "server": "EU-Spain",
+  "location": "Spain",
+  "online": false
+},
+{
+  "_id": {
+    "$oid": "6919c7605108e2defd7b60cb"
+  },
+  "server": "EU-Baltics",
+  "location": "Lithuania",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919c7605108e2defd7b60cc"
+  },
+  "server": "EU-Balkan",
+  "location": "Romania",
+  "online": true
+}]

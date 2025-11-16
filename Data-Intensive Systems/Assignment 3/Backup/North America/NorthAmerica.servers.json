@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6919c7ce5108e2defd7b60ff"
+  },
+  "server": "NA-East",
+  "location": "Virginia",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919c7ce5108e2defd7b6100"
+  },
+  "server": "NA-West",
+  "location": "California",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919c7ce5108e2defd7b6101"
+  },
+  "server": "NA-Central",
+  "location": "Texas",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919c7ce5108e2defd7b6102"
+  },
+  "server": "NA-CanadaEast",
+  "location": "Ontario",
+  "online": false
+},
+{
+  "_id": {
+    "$oid": "6919c7ce5108e2defd7b6103"
+  },
+  "server": "NA-CanadaWest",
+  "location": "British Columbia",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919c7ce5108e2defd7b6104"
+  },
+  "server": "NA-Midwest",
+  "location": "Illinois",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919c7ce5108e2defd7b6105"
+  },
+  "server": "NA-Florida",
+  "location": "Florida",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919c7ce5108e2defd7b6106"
+  },
+  "server": "NA-NewYork",
+  "location": "New York",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919c7ce5108e2defd7b6107"
+  },
+  "server": "NA-North",
+  "location": "Alaska",
+  "online": false
+},
+{
+  "_id": {
+    "$oid": "6919c7ce5108e2defd7b6108"
+  },
+  "server": "NA-South",
+  "location": "Georgia",
+  "online": true
+}]

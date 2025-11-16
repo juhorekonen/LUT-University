@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61dd"
+  },
+  "item": "Iron Sword",
+  "rarity": "Common",
+  "value": 25
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61de"
+  },
+  "item": "Steel Shield",
+  "rarity": "Rare",
+  "value": 70
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61df"
+  },
+  "item": "Healing Potion",
+  "rarity": "Common",
+  "value": 15
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61e0"
+  },
+  "item": "Magic Scroll",
+  "rarity": "Epic",
+  "value": 150
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61e1"
+  },
+  "item": "Longbow",
+  "rarity": "Uncommon",
+  "value": 40
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61e2"
+  },
+  "item": "Battle Axe",
+  "rarity": "Rare",
+  "value": 80
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61e3"
+  },
+  "item": "Crossbow",
+  "rarity": "Uncommon",
+  "value": 45
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61e4"
+  },
+  "item": "Dragon Helm",
+  "rarity": "Legendary",
+  "value": 300
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61e5"
+  },
+  "item": "Dagger",
+  "rarity": "Common",
+  "value": 20
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61e6"
+  },
+  "item": "Golden Armor",
+  "rarity": "Legendary",
+  "value": 350
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61e7"
+  },
+  "item": "Revolver",
+  "rarity": "Uncommon",
+  "value": 45
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61e8"
+  },
+  "item": "Hunting Bow",
+  "rarity": "Common",
+  "value": 30
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61e9"
+  },
+  "item": "First Aid Kit",
+  "rarity": "Common",
+  "value": 20
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61ea"
+  },
+  "item": "Energy Drink",
+  "rarity": "Common",
+  "value": 10
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61eb"
+  },
+  "item": "Tactical Vest",
+  "rarity": "Rare",
+  "value": 90
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61ec"
+  },
+  "item": "Flash Grenade",
+  "rarity": "Uncommon",
+  "value": 35
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61ed"
+  },
+  "item": "Sniper Rifle",
+  "rarity": "Epic",
+  "value": 200
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61ee"
+  },
+  "item": "Combat Knife",
+  "rarity": "Common",
+  "value": 15
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61ef"
+  },
+  "item": "Kevlar Helmet",
+  "rarity": "Rare",
+  "value": 80
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61f0"
+  },
+  "item": "Assault Rifle",
+  "rarity": "Epic",
+  "value": 180
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61f1"
+  },
+  "item": "Katana",
+  "rarity": "Epic",
+  "value": 180
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61f2"
+  },
+  "item": "Bamboo Spear",
+  "rarity": "Common",
+  "value": 20
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61f3"
+  },
+  "item": "Rice Ball",
+  "rarity": "Common",
+  "value": 5
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61f4"
+  },
+  "item": "Tea Flask",
+  "rarity": "Common",
+  "value": 10
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61f5"
+  },
+  "item": "Silk Robe",
+  "rarity": "Rare",
+  "value": 70
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61f6"
+  },
+  "item": "Shuriken",
+  "rarity": "Uncommon",
+  "value": 25
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61f7"
+  },
+  "item": "Dragon Armor",
+  "rarity": "Legendary",
+  "value": 300
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61f8"
+  },
+  "item": "Fire Charm",
+  "rarity": "Epic",
+  "value": 150
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61f9"
+  },
+  "item": "Herbal Potion",
+  "rarity": "Common",
+  "value": 15
+},
+{
+  "_id": {
+    "$oid": "691a0bd25108e2defd7b61fa"
+  },
+  "item": "Samurai Helmet",
+  "rarity": "Rare",
+  "value": 90
+}]

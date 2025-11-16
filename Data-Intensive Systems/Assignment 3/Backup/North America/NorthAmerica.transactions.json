@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6919c7da5108e2defd7b610b"
+  },
+  "username": "EuroWolf",
+  "amount": 4.99,
+  "currency": "CAD"
+},
+{
+  "_id": {
+    "$oid": "6919c7da5108e2defd7b610c"
+  },
+  "username": "CelticStorm",
+  "amount": 9.99,
+  "currency": "USD"
+},
+{
+  "_id": {
+    "$oid": "6919c7da5108e2defd7b610d"
+  },
+  "username": "PolishEagle",
+  "amount": 24.99,
+  "currency": "USD"
+},
+{
+  "_id": {
+    "$oid": "6919c7da5108e2defd7b610e"
+  },
+  "username": "BritSharpshooter",
+  "amount": 3.99,
+  "currency": "USD"
+},
+{
+  "_id": {
+    "$oid": "6919c7da5108e2defd7b610f"
+  },
+  "username": "VikingRage",
+  "amount": 1.99,
+  "currency": "USD"
+},
+{
+  "_id": {
+    "$oid": "6919c7da5108e2defd7b6110"
+  },
+  "username": "IberianFox",
+  "amount": 14.99,
+  "currency": "USD"
+},
+{
+  "_id": {
+    "$oid": "6919c7da5108e2defd7b6111"
+  },
+  "username": "NordicBlade",
+  "amount": 12.49,
+  "currency": "CAD"
+},
+{
+  "_id": {
+    "$oid": "6919c7da5108e2defd7b6112"
+  },
+  "username": "FrenchKnight",
+  "amount": 6.99,
+  "currency": "USD"
+},
+{
+  "_id": {
+    "$oid": "6919c7da5108e2defd7b6113"
+  },
+  "username": "SwissGuard",
+  "amount": 7.49,
+  "currency": "USD"
+},
+{
+  "_id": {
+    "$oid": "6919c7da5108e2defd7b6114"
+  },
+  "username": "GreekHero",
+  "amount": 19.99,
+  "currency": "CAD"
+}]

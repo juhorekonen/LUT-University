@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6919dbd85108e2defd7b613d"
+  },
+  "server": "Asia-East",
+  "location": "Japan",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919dbd85108e2defd7b613e"
+  },
+  "server": "Asia-North",
+  "location": "South Korea",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919dbd85108e2defd7b613f"
+  },
+  "server": "China",
+  "location": "Shanghai",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919dbd85108e2defd7b6140"
+  },
+  "server": "Asia-South",
+  "location": "India",
+  "online": false
+},
+{
+  "_id": {
+    "$oid": "6919dbd85108e2defd7b6141"
+  },
+  "server": "Asia-Southeast1",
+  "location": "Singapore",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919dbd85108e2defd7b6142"
+  },
+  "server": "Asia-Southeast2",
+  "location": "Malaysia",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919dbd85108e2defd7b6143"
+  },
+  "server": "Philippines",
+  "location": "Manila",
+  "online": false
+},
+{
+  "_id": {
+    "$oid": "6919dbd85108e2defd7b6144"
+  },
+  "server": "Vietnam",
+  "location": "Hanoi",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919dbd85108e2defd7b6145"
+  },
+  "server": "Thailand",
+  "location": "Bangkok",
+  "online": true
+},
+{
+  "_id": {
+    "$oid": "6919dbd85108e2defd7b6146"
+  },
+  "server": "HongKong",
+  "location": "Hong Kong",
+  "online": true
+}]
