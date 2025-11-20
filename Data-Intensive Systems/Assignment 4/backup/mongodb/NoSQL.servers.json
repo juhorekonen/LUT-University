@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "691ef759f473b94ad65ace62"
+  },
+  "server_id": 1,
+  "name": "EU-Central",
+  "location": "Germany",
+  "status": "active",
+  "online": 320
+},
+{
+  "_id": {
+    "$oid": "691ef759f473b94ad65ace63"
+  },
+  "server_id": 2,
+  "name": "Nordic",
+  "location": "Sweden",
+  "status": "active",
+  "online": 140
+},
+{
+  "_id": {
+    "$oid": "691ef759f473b94ad65ace64"
+  },
+  "server_id": 3,
+  "name": "EU-West",
+  "location": "Spain",
+  "status": "active",
+  "online": 215
+},
+{
+  "_id": {
+    "$oid": "691ef759f473b94ad65ace65"
+  },
+  "server_id": 4,
+  "name": "EU-North",
+  "location": "Norway",
+  "status": "inactive",
+  "online": 0
+},
+{
+  "_id": {
+    "$oid": "691ef759f473b94ad65ace66"
+  },
+  "server_id": 5,
+  "name": "United Kingdom",
+  "location": "UK",
+  "status": "active",
+  "online": 280
+},
+{
+  "_id": {
+    "$oid": "691ef759f473b94ad65ace67"
+  },
+  "server_id": 6,
+  "name": "North America",
+  "location": "USA",
+  "status": "maintenance",
+  "online": 0
+},
+{
+  "_id": {
+    "$oid": "691ef759f473b94ad65ace68"
+  },
+  "server_id": 7,
+  "name": "Baltic",
+  "location": "Poland",
+  "status": "active",
+  "online": 155
+},
+{
+  "_id": {
+    "$oid": "691ef759f473b94ad65ace69"
+  },
+  "server_id": 8,
+  "name": "EU-East",
+  "location": "Armenia",
+  "status": "active",
+  "online": 84
+},
+{
+  "_id": {
+    "$oid": "691ef759f473b94ad65ace6a"
+  },
+  "server_id": 9,
+  "name": "EU-South",
+  "location": "Italy",
+  "status": "active",
+  "online": 132
+},
+{
+  "_id": {
+    "$oid": "691ef759f473b94ad65ace6b"
+  },
+  "server_id": 10,
+  "name": "Asia",
+  "location": "China",
+  "status": "inactive",
+  "online": 0
+},
+{
+  "_id": {
+    "$oid": "691ef759f473b94ad65ace6c"
+  },
+  "server_id": 11,
+  "name": "Russia",
+  "location": "Russia",
+  "status": "active",
+  "online": 190
+},
+{
+  "_id": {
+    "$oid": "691ef759f473b94ad65ace6d"
+  },
+  "server_id": 12,
+  "name": "Pacific",
+  "location": "Hawaii",
+  "status": "maintenance",
+  "online": 0
+},
+{
+  "_id": {
+    "$oid": "691ef759f473b94ad65ace6e"
+  },
+  "server_id": 13,
+  "name": "Mexico",
+  "location": "Mexico",
+  "status": "active",
+  "online": 112
+},
+{
+  "_id": {
+    "$oid": "691ef759f473b94ad65ace6f"
+  },
+  "server_id": 14,
+  "name": "South America",
+  "location": "Brazil",
+  "status": "active",
+  "online": 165
+},
+{
+  "_id": {
+    "$oid": "691ef759f473b94ad65ace70"
+  },
+  "server_id": 15,
+  "name": "Mediterrane",
+  "location": "Greece",
+  "status": "active",
+  "online": 204
+}]

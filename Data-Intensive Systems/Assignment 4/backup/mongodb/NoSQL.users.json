@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "691b6f362b7b56949946b22c"
+  },
+  "user_id": 1,
+  "first_name": "Juho",
+  "last_name": "Miettinen",
+  "hours": 1700,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "691b6f362b7b56949946b22d"
+  },
+  "user_id": 2,
+  "first_name": "Lucas",
+  "last_name": "Becker",
+  "hours": 2650,
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "691b6f362b7b56949946b22e"
+  },
+  "user_id": 3,
+  "first_name": "Roni",
+  "last_name": "Svensson",
+  "hours": 3200,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "691b6f362b7b56949946b22f"
+  },
+  "user_id": 4,
+  "first_name": "Miguel",
+  "last_name": "Torres",
+  "hours": 560,
+  "rating": 2.3
+},
+{
+  "_id": {
+    "$oid": "691b6f362b7b56949946b230"
+  },
+  "user_id": 5,
+  "first_name": "Olaf",
+  "last_name": "Hansen",
+  "hours": 890,
+  "rating": 3.7
+},
+{
+  "_id": {
+    "$oid": "691ed68bf473b94ad65ace59"
+  },
+  "user_id": 6,
+  "first_name": "Arthur",
+  "last_name": "Wright",
+  "hours": 1350,
+  "rating": 1.9
+},
+{
+  "_id": {
+    "$oid": "691b6f362b7b56949946b232"
+  },
+  "user_id": 7,
+  "first_name": "Piotr",
+  "last_name": "Nowak",
+  "hours": 160,
+  "rating": 2.5
+},
+{
+  "_id": {
+    "$oid": "691b6f362b7b56949946b233"
+  },
+  "user_id": 8,
+  "first_name": "Sean",
+  "last_name": "Truman",
+  "hours": 7500,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "691b6f362b7b56949946b234"
+  },
+  "user_id": 9,
+  "first_name": "Hans",
+  "last_name": "Meier",
+  "hours": 2750,
+  "rating": 3.6
+},
+{
+  "_id": {
+    "$oid": "691b6f362b7b56949946b235"
+  },
+  "user_id": 10,
+  "first_name": "Jesse",
+  "last_name": "Tuominen",
+  "hours": 12000,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "691b6f362b7b56949946b236"
+  },
+  "user_id": 11,
+  "first_name": "Luca",
+  "last_name": "Romano",
+  "hours": 100,
+  "rating": 1.4
+},
+{
+  "_id": {
+    "$oid": "691b6f362b7b56949946b237"
+  },
+  "user_id": 12,
+  "first_name": "Ivan",
+  "last_name": "Petrov",
+  "hours": 470,
+  "rating": 3.1
+},
+{
+  "_id": {
+    "$oid": "691b6f362b7b56949946b238"
+  },
+  "user_id": 13,
+  "first_name": "James",
+  "last_name": "Miller",
+  "hours": 85,
+  "rating": 1.2
+},
+{
+  "_id": {
+    "$oid": "691b6f362b7b56949946b239"
+  },
+  "user_id": 14,
+  "first_name": "Franz",
+  "last_name": "Gruber",
+  "hours": 1920,
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "691b6f362b7b56949946b23a"
+  },
+  "user_id": 15,
+  "first_name": "Kimo",
+  "last_name": "Kaleo",
+  "hours": 13,
+  "rating": 0.6
+}]

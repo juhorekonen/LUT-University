@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "691ef79df473b94ad65ace95"
+  },
+  "session_id": 1,
+  "user_id": 1,
+  "device": "PC",
+  "duration": 120
+},
+{
+  "_id": {
+    "$oid": "691ef79df473b94ad65ace96"
+  },
+  "session_id": 2,
+  "user_id": 2,
+  "device": "Mobile",
+  "duration": 45
+},
+{
+  "_id": {
+    "$oid": "691ef79df473b94ad65ace97"
+  },
+  "session_id": 3,
+  "user_id": 3,
+  "device": "Tablet",
+  "duration": 89
+},
+{
+  "_id": {
+    "$oid": "691ef79df473b94ad65ace98"
+  },
+  "session_id": 4,
+  "user_id": 4,
+  "device": "PC",
+  "duration": 140
+},
+{
+  "_id": {
+    "$oid": "691ef79df473b94ad65ace99"
+  },
+  "session_id": 5,
+  "user_id": 5,
+  "device": "PC",
+  "duration": 72
+},
+{
+  "_id": {
+    "$oid": "691ef79df473b94ad65ace9a"
+  },
+  "session_id": 6,
+  "user_id": 6,
+  "device": "Mobile",
+  "duration": 33
+},
+{
+  "_id": {
+    "$oid": "691ef79df473b94ad65ace9b"
+  },
+  "session_id": 7,
+  "user_id": 7,
+  "device": "PC",
+  "duration": 155
+},
+{
+  "_id": {
+    "$oid": "691ef79df473b94ad65ace9c"
+  },
+  "session_id": 8,
+  "user_id": 8,
+  "device": "Tablet",
+  "duration": 61
+},
+{
+  "_id": {
+    "$oid": "691ef79df473b94ad65ace9d"
+  },
+  "session_id": 9,
+  "user_id": 9,
+  "device": "Mobile",
+  "duration": 57
+},
+{
+  "_id": {
+    "$oid": "691ef79df473b94ad65ace9e"
+  },
+  "session_id": 10,
+  "user_id": 10,
+  "device": "PC",
+  "duration": 200
+},
+{
+  "_id": {
+    "$oid": "691ef79df473b94ad65ace9f"
+  },
+  "session_id": 11,
+  "user_id": 11,
+  "device": "PC",
+  "duration": 120
+},
+{
+  "_id": {
+    "$oid": "691ef79df473b94ad65acea0"
+  },
+  "session_id": 12,
+  "user_id": 12,
+  "device": "Mobile",
+  "duration": 48
+},
+{
+  "_id": {
+    "$oid": "691ef79df473b94ad65acea1"
+  },
+  "session_id": 13,
+  "user_id": 13,
+  "device": "Tablet",
+  "duration": 75
+},
+{
+  "_id": {
+    "$oid": "691ef79df473b94ad65acea2"
+  },
+  "session_id": 14,
+  "user_id": 14,
+  "device": "PC",
+  "duration": 99
+},
+{
+  "_id": {
+    "$oid": "691ef79df473b94ad65acea3"
+  },
+  "session_id": 15,
+  "user_id": 15,
+  "device": "Mobile",
+  "duration": 30
+}]

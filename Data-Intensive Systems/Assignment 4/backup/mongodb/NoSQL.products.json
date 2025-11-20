@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "691ef777f473b94ad65ace73"
+  },
+  "product_id": 1,
+  "description": "Iron Sword",
+  "quantity": 50,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "691ef777f473b94ad65ace74"
+  },
+  "product_id": 2,
+  "description": "Steel Shield",
+  "quantity": 35,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "691ef777f473b94ad65ace75"
+  },
+  "product_id": 3,
+  "description": "Magic Scroll",
+  "quantity": 70,
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "691ef777f473b94ad65ace76"
+  },
+  "product_id": 4,
+  "description": "Healing Potion",
+  "quantity": 90,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "691ef777f473b94ad65ace77"
+  },
+  "product_id": 5,
+  "description": "Battle Axe",
+  "quantity": 20,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "691ef777f473b94ad65ace78"
+  },
+  "product_id": 6,
+  "description": "Longbow",
+  "quantity": 40,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "691ef777f473b94ad65ace79"
+  },
+  "product_id": 7,
+  "description": "Dragon Helm",
+  "quantity": 15,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "691ef777f473b94ad65ace7a"
+  },
+  "product_id": 8,
+  "description": "Dagger",
+  "quantity": 60,
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "691ef777f473b94ad65ace7b"
+  },
+  "product_id": 9,
+  "description": "Golden Armor",
+  "quantity": 10,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "691ef777f473b94ad65ace7c"
+  },
+  "product_id": 10,
+  "description": "Revolver",
+  "quantity": 30,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "691ef777f473b94ad65ace7d"
+  },
+  "product_id": 11,
+  "description": "First Aid Kit",
+  "quantity": 45,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "691ef777f473b94ad65ace7e"
+  },
+  "product_id": 12,
+  "description": "Energy Drink",
+  "quantity": 80,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "691ef777f473b94ad65ace7f"
+  },
+  "product_id": 13,
+  "description": "Tactical Vest",
+  "quantity": 25,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "691ef777f473b94ad65ace80"
+  },
+  "product_id": 14,
+  "description": "Flash Grenade",
+  "quantity": 55,
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "691ef777f473b94ad65ace81"
+  },
+  "product_id": 15,
+  "description": "Katana",
+  "quantity": 18,
+  "rating": 5
+}]
